@@ -1,16 +1,15 @@
-## Hi there 👋
+# Mohamed Ahmed Elsaeid Amer
 
-<!--
-**Mohamed-Elsaeid/Mohamed-Elsaeid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Network & Systems Engineer · IT Help Desk at Alam Al Sahara · Cairo, Egypt
 
-Here are some ideas to get you started:
+CCNA and MCSA completed. CCNP, Linux and Cloud in progress at Raya Academy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Networking:** Routing & switching, VLANs, inter-VLAN routing, NAT, DHCP, subnetting (VLSM), TCP/IP
+
+**Systems:** Windows Server, Active Directory, OUs, Group Policy, DNS, DHCP
+
+**Lab work:** a Windows Server domain on VMware, and multi-department network simulations in Cisco Packet Tracer
+
+**Portfolio:** https://mohamed-elsaeid.github.io
+
+**LinkedIn:** https://www.linkedin.com/in/mohamed-elsaeid-amer/
